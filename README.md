@@ -2,6 +2,9 @@
 ## Who Im I
 I am a junior high school student in Beijing, I like to study deep learning.
 Vue | Flask | Pytorch | MongoDB | Java
+
+
+
 我是一个北京的初中生，喜欢研究深度学习
 Vue | Flask | PyTorch | MongoDB | Java
 
