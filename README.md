@@ -1,24 +1,15 @@
 ### Hi there 👋
 ## Who Im I
-I am a junior high school student in Beijing, I like to study deep learning.
-Vue | Flask | Pytorch | MongoDB | Java
+I am a junior high school student in Beijing, I like to play ML and Deep Learning.
+Vue | Flask | Pytorch | MongoDB | Java | C | Rust |
 
 
 
-我是一个北京的初中生，喜欢研究深度学习
-Vue | Flask | PyTorch | MongoDB | Java
+我是一个北京的初中生，喜欢玩ML和深度学习
+Vue | Flask | PyTorch | MongoDB | Java | C | Rust |
 
-<!--
-**lihe07/lihe07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm doing?
+0x00 learning rust-lang
+0x01 building website for school
+0x02 building a light and fast APIs framework in Rust
+0x03 learning "High Concurrency" and "Distributed computing"
