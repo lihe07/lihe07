@@ -17,6 +17,5 @@ Vue | Flask | PyTorch | MongoDB | Java | C | Rust |
 
 ## What I'm doing?
 - [x] *0x00* learning rust-lang
-- [ ] *0x01* building website for school
 - [ ] *0x02* building a light and fast APIs framework in Rust
-- [ ] *0x03* learning "High Concurrency" and "Distributed computing"
+- [ ] *0x03* making Desktop APP
