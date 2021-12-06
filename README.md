@@ -5,7 +5,7 @@
 <!-- ### Language
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07"></img></a> -->
 ## Who Im I
-I am a junior high school student in Beijing, I like to play ML and Deep Learning.
+I am a junior high school student in Beijing.
 Vue | Flask | Pytorch | MongoDB | Java | C | Rust |
 
 
