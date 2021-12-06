@@ -6,11 +6,13 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07"></img></a> -->
 ## Who Im I
 I am a junior high school student in Beijing.
+
 Vue | Flask | Pytorch | MongoDB | Java | C | Rust |
 
 
 
 我是一个初中生.
+
 Vue | Flask | PyTorch | MongoDB | Java | C | Rust |
 
 ## What I'm doing?
