@@ -10,7 +10,7 @@ Vue | Flask | Pytorch | MongoDB | Java | C | Rust |
 
 
 
-我是一个北京的初中生，喜欢玩ML和深度学习
+我是一个初中生.
 Vue | Flask | PyTorch | MongoDB | Java | C | Rust |
 
 ## What I'm doing?
