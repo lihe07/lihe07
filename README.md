@@ -11,11 +11,7 @@ Vue | Flask | Pytorch | MongoDB | Java | C | Rust |
 
 
 
-我是一个初中生.
-
-Vue | Flask | PyTorch | MongoDB | Java | C | Rust |
-
 ## What I'm doing?
-- [x] *0x00* learning rust-lang
-- [ ] *0x02* building a light and fast APIs framework in Rust
-- [ ] *0x03* making Desktop APP
+- [ ] *0x01* building a light and fast APIs framework in Rust
+- [ ] *0x02* making Desktop APP
+- [ ] *0x03* learning Dart & Fluent
