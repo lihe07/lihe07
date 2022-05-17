@@ -1,17 +1,16 @@
-### Hi there 👋
-## My Github!
+## Hello, friend! 👋
 <!-- ### Stats -->
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lihe07&count_private=true&show_icons=true&theme=radical"></img></a>
-<!-- ### Language
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07"></img></a> -->
-## Who Im I
-I am a junior high school student in Beijing.
-
-Vue | Flask | Pytorch | MongoDB | Java | C | Rust |
 
 
+I am a junior high school student in Beijing and a computer novice.
 
-## What I'm doing?
-- [ ] *0x01* building a light and fast APIs framework in Rust
-- [ ] *0x02* making Desktop APP
-- [ ] *0x03* learning Dart & Fluent
+- I am proficient in switching on and off of various operating systems and Hello World in various programming languages.
+- I like to try new technologies, but I can't say I'm good at it.
+- I have a strong interest in artificial intelligence, but not at a high level.
+
+> Note: My English may not be very good :(
+> 
+> Ignore the following "makefile", I have no ideas about them.
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07"></img></a>
