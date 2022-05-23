@@ -10,7 +10,5 @@ I am a junior high school student in Beijing and a computer novice.
 - I have a strong interest in artificial intelligence, but not at a high level.
 
 > Note: My English may not be very good :(
-> 
-> Ignore the following "makefile", I have no ideas about them.
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07"></img></a>
