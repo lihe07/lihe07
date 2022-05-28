@@ -11,4 +11,4 @@ I am a junior high school student in Beijing and a computer novice.
 
 > Note: My English may not be very good :(
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07"></img></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07&theme=radical"></img></a>
