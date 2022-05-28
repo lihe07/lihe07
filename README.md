@@ -23,4 +23,4 @@ I am a junior high school student in Beijing and a computer novice.
 
 
 
-[My (Neo)Vim Configuration](https://github.com/lihe07/lihe07/blob/main/init.vim) and [My personal site](https://www.imlihe.com/)
+[My (Neo)Vim Configuration](https://github.com/lihe07/lihe07/blob/main/init.vim) and [My personal site(WIP)](https://www.imlihe.com/)
