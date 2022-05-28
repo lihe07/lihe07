@@ -11,6 +11,7 @@ I am a junior high school student in **Beijing, China** and a computer novice.
 
 
 ## Things I've been doing recently
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
 
 
 - Learn [Rust Lang](https://www.rust-lang.org/): already understood a bit, diving deeper...
@@ -22,7 +23,6 @@ I am a junior high school student in **Beijing, China** and a computer novice.
 
 
 ## Some links
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
 
 - [My (Neo)Vim Configuration](https://github.com/lihe07/lihe07/blob/main/init.vim) 
 - [My personal site(WIP)](https://www.imlihe.com/)
