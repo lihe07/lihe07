@@ -6,6 +6,7 @@ I am a junior high school student in **Beijing, China** and a computer novice.
 
 - I love trying new technologies (although I'm not good at them).
 - I have a strong interest in artificial intelligence.
+- I'm willing to help anyone if I can.
 
 
 
