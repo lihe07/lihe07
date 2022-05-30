@@ -22,8 +22,10 @@ map J 5j
 map K 5k
 map L 5l
 map H 5h
-imap <C-[> <C-T>
-imap <C-]> <C-D>
+" imap <C-[> <C-T>
+" imap <C-]> <C-D>
+imap <C-h> <C-Left>
+imap <C-l> <C-Right>
 nmap <C-[> <<
 nmap <C-]> >>
 map sd :set splitright<CR>:vsplit<CR>
@@ -60,6 +62,8 @@ set number
 set encoding=utf-8
 set expandtab
 set tabstop=4
+set shiftwidth=4
+set softtabstop=4
 set list
 set backspace=indent,eol,start
 set foldmethod=indent
@@ -89,6 +93,7 @@ Plug 'vim-airline/vim-airline-themes'  " airline 主题
 Plug 'mattn/webapi-vim'                " 一些插件的前置
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' } " 预览markdown
 Plug 'neoclide/coc.nvim'               " 代码补全
+Plug 'leafoftree/vim-svelte-plugin'
 call plug#end()
 
 " Section: Plugin Configurations
