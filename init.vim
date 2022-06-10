@@ -24,8 +24,10 @@ map L 5l
 map H 5h
 " imap <C-[> <C-T>
 " imap <C-]> <C-D>
-imap <C-h> <C-Left>
-imap <C-l> <C-Right>
+imap <C-h> <Left>
+imap <C-j> <Down>
+imap <C-k> <Up>
+imap <C-l> <Right>
 nmap <C-[> <<
 nmap <C-]> >>
 map sd :set splitright<CR>:vsplit<CR>
@@ -68,6 +70,7 @@ set list
 set backspace=indent,eol,start
 set foldmethod=indent
 set foldlevel=99
+set relativenumber
 au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 let g:loaded_perl_provider = 0 " 禁用 Perl 外置
 
@@ -83,35 +86,34 @@ filetype plugin on
 call plug#begin('~/.vim/plugged')
 Plug 'connorholyday/vim-snazzy'        " 配色
 Plug 'scrooloose/nerdtree'             " 文件树
-Plug 'w0rp/ale'                        " 语法检查
 Plug 'majutsushi/tagbar'               " 显示 函数/类 列表
 Plug 'mbbill/undotree'                 " 显示历史操作记录
 " Plug 'rust-lang/rust.vim'              " rust语言支持
-Plug 'scrooloose/syntastic'         
+" Plug 'scrooloose/syntastic'         
 Plug 'vim-airline/vim-airline'         " 底部栏样式
 Plug 'vim-airline/vim-airline-themes'  " airline 主题
-Plug 'mattn/webapi-vim'                " 一些插件的前置
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install' } " 预览markdown
-Plug 'neoclide/coc.nvim'               " 代码补全
 Plug 'leafoftree/vim-svelte-plugin'
+Plug 'tpope/vim-surround'              " 快速操作成对的符号
+Plug 'Yggdroot/LeaderF', { 'do': ':LeaderfInstallCExtension' }  " 模糊搜索
+Plug 'ryanoasis/vim-devicons'          " 图标库
+Plug 'bagrat/vim-buffet'               " Tab美化
+Plug 'plasticboy/vim-markdown'
+Plug 'neoclide/coc.nvim'
+
 call plug#end()
 
 " Section: Plugin Configurations
 
 color snazzy
+let g:ale_sign_error = '✗' 
+let g:ale_sign_warning = '⚠'
 " 添加一个命令Format用于格式化当前buffer
 command! -nargs=0 Format :call CocAction('format')
 " Fold用于折叠当前buffer
 command! -nargs=? Fold :call     CocAction('fold', <f-args>)
 " OR用于整理imports
 command! -nargs=0 OR   :call     CocAction('runCommand', 'editor.action.organizeImport')
-set statusline+=%#warningmsg#
-set statusline+=%{SyntasticStatuslineFlag()}
-set statusline+=%*
-let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 1
-let g:syntastic_check_on_open = 1
-let g:syntastic_check_on_wq = 0
 augroup mygroup
   autocmd!
   " Setup formatexpr specified filetype(s).
@@ -130,7 +132,25 @@ let g:NERDTreeIndicatorMapCustom = {
     \ "Clean"     : "✔︎",
     \ "Unknown"   : "?"
     \ }
-let g:syntastic_rust_checkers = ['cargo']
+let g:NERDTreeDirArrowExpandable = '▸'
+let g:NERDTreeDirArrowCollapsible = '▾'
+let NERDTreeMinimalUI = 1
+let NERDTreeDirArrows = 1
+let g:airline#extensions#tabline#enabled = 1
+let g:mkdp_preview_options = {
+    \ 'mkit': {},
+    \ 'katex': {},
+    \ 'uml': {},
+    \ 'maid': {"theme": "dark"},
+    \ 'disable_sync_scroll': 0,
+    \ 'sync_scroll_type': 'middle',
+    \ 'hide_yaml_meta': 1,
+    \ 'sequence_diagrams': {},
+    \ 'flowchart_diagrams': {},
+    \ 'content_editable': v:false,
+    \ 'disable_filename': 0,
+    \ 'toc': {}
+    \ }
 
 " Section: Plugin Keyboard Mapping
 
@@ -172,3 +192,6 @@ xmap <LEADER>f  <Plug>(coc-format-selected)
 nmap <LEADER>f  <Plug>(coc-format-selected)
 " Tagbar切换显示
 map T :TagbarOpenAutoClose<CR>
+" Ctrl-F 格式化代码
+command! -nargs=0 Prettier :CocCommand prettier.formatFile
+noremap <C-F> :Prettier<CR>
