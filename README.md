@@ -16,9 +16,10 @@ I am a junior high school student in **Beijing, China** and a computer novice.
 
 
 - Learn [Rust Lang](https://www.rust-lang.org/): already understood a bit, diving deeper...
-- Learn [svelte](https://svelte.dev/): already understood a bit, practicing...
+- Learn [svelte](https://svelte.dev/): almost complete
 - Learn [(Neo)VIM](https://neovim.io/): just started
 - Learn [bevy](https://bevyengine.org/): just started
+- Learn [Android](https://developer.android.com/): just started
 
 
 
