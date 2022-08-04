@@ -15,11 +15,10 @@ I am a junior high school student in **Beijing, China** and a computer novice.
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
 
 
-- Learn [Rust Lang](https://www.rust-lang.org/): already understood a bit, diving deeper...
-- Learn [svelte](https://svelte.dev/): almost complete
+- Learn [Zig Lang](https://ziglang.org/): started
 - Learn [(Neo)VIM](https://neovim.io/): stop for a while
-- Learn [bevy](https://bevyengine.org/): just started
-- Learn [Android](https://developer.android.com/): just started
+- Learn [bevy](https://bevyengine.org/): started
+- Learn [Android](https://developer.android.com/): started
 
 
 
