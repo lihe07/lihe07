@@ -28,7 +28,7 @@ I am a high school student in **Beijing, China** and a computer novice.
 ## Some links
 
 - [My (Neo)Vim Configuration](https://github.com/lihe07/lihe07/blob/main/init.vim) 
-- [My personal site(WIP)](https://www.imlihe.com/)
+- [My personal site(WIP)](https://www.lihe.dev/)
 
 
 
