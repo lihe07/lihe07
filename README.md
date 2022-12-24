@@ -15,14 +15,10 @@ I am a high school student in **Beijing, China** and a computer novice.
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
 
 
-- Learn [Zig Lang](https://ziglang.org/): started
-  
-  Zig is the best ~~programming language~~ compiler for rust!
-- Learn [(Neo)VIM](https://neovim.io/): stop for a while
-- Learn [Godot engine](https://godotengine.org/): started
-- Learn [Android](https://developer.android.com/): started
-
-
+- Learn [Julia](https://julialang.org/): in progress
+- Learn [Java](https://www.java.com/): in progress
+- Learn [PyTorch V2](https://pytorch.org/): started
+- Read a lot of comics and books, watch a lot of animation: [As usual](https://github.com/lihe07/ac-list)
 
 
 ## Some links
