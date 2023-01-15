@@ -1,4 +1,4 @@
-## Hello, friend!!! 👋
+## Hello!!!
 <!-- ### Stats -->
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=lihe07&count_private=true&show_icons=true&theme=radical"></img></a>
 
@@ -18,7 +18,7 @@ I am a high school student in **Beijing, China** and a computer novice.
 - Learn [Julia](https://julialang.org/): in progress
 - Learn [Java](https://www.java.com/): in progress
 - Learn [PyTorch V2](https://pytorch.org/): started
-- Read a lot of comics and books, watch a lot of animation: [As usual](https://github.com/lihe07/ac-list)
+- Manga, Books and Anime: [As usual](https://github.com/lihe07/ac-list)
 
 
 ## Some links
