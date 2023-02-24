@@ -4,20 +4,34 @@
 
 I am a high school student in **Beijing, China** and a computer novice.
 
-- I love trying new technologies (although I'm not good at them).
-- I have a strong interest in artificial intelligence.
+- I love trying new technologies (although I might not good at them).
+- I am interested in artificial intelligence.
 - I'm willing to help anyone if I can.
 
+Some of my favorite technologies:
 
+- Python:
+  - [PyTorch](https://pytorch.org/)
+  - [FastAPI](https://fastapi.tiangolo.com/)
+- Julia:
+  - Pluto
+  - [JuMP](https://jump.dev/)
+
+TODO
 
 
 ## Things I've been doing recently
+
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
 
+Learn:
 
-- Learn [Julia](https://julialang.org/): in progress
-- Learn [Java](https://www.java.com/): in progress
-- Learn [PyTorch V2](https://pytorch.org/): started
+- [Golang](https://go.dev/): started
+- [Julia](https://julialang.org/): in progress
+- [Java](https://www.java.com/): in progress
+
+Other:
+
 - Manga, Books and Anime: [As usual](https://github.com/lihe07/ac-list)
 
 
@@ -25,7 +39,6 @@ I am a high school student in **Beijing, China** and a computer novice.
 
 - [My (Neo)Vim Configuration](https://github.com/lihe07/lihe07/blob/main/init.vim) 
 - [My personal site(WIP) https://www.lihe.dev](https://www.lihe.dev/)
-
 
 
 ## Contact
