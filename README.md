@@ -5,7 +5,7 @@
 I am a high school student in **Beijing, China** and a computer novice.
 
 - I love trying new technologies (although I might not good at them).
-- I am interested in artificial intelligence.
+- I am interested in AI/DL, Web and software stuffs.
 - I'm willing to help anyone if I can.
 
 Some of my favorite technologies:
@@ -16,9 +16,11 @@ Some of my favorite technologies:
 - Julia:
   - Pluto
   - [JuMP](https://jump.dev/)
-
-TODO
-
+- Rust:
+  - [async-std](https://async.rs/)
+- Web:
+  - [SolidJS & SolidStart](https://www.solidjs.com/)
+  - [Qwik](https://qwik.builder.io/)
 
 ## Things I've been doing recently
 
@@ -26,14 +28,14 @@ TODO
 
 Learn:
 
-- [Golang](https://go.dev/): started
+- [Golang](https://go.dev/): in progress
 - [Julia](https://julialang.org/): in progress
 - [Java](https://www.java.com/): in progress
 
-Other:
-
-- Manga, Books and Anime: [As usual](https://github.com/lihe07/ac-list)
-
+<!-- Other:
+ -->
+<!-- - Manga, Books and Anime: [As usual](https://github.com/lihe07/ac-list)
+ -->
 
 ## Some links
 
