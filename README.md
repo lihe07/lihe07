@@ -2,11 +2,11 @@
 <!-- ### Stats -->
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=lihe07&count_private=true&show_icons=true&theme=radical"></img></a>
 
-I am a high school student in **Beijing, China** and a computer novice.
+I am a student in **Beijing, China** and a computer novice.
 
 - I love trying new technologies (although I might not good at them).
 - I am interested in AI/DL, Web and software stuffs.
-- I'm willing to help anyone if I can.
+- I am willing to help if I can.
 
 Some of my favorite technologies:
 
@@ -21,6 +21,9 @@ Some of my favorite technologies:
 - Web:
   - [SolidJS & SolidStart](https://www.solidjs.com/)
   - [Qwik](https://qwik.builder.io/)
+- C:
+  - [GTK](https://www.gtk.org/)
+  - [Meson](https://mesonbuild.com/)
 
 ## Things I've been doing recently
 
@@ -28,24 +31,17 @@ Some of my favorite technologies:
 
 Learn:
 
-- [Golang](https://go.dev/): in progress
-- [Julia](https://julialang.org/): in progress
-- [Java](https://www.java.com/): in progress
-
-<!-- Other:
- -->
-<!-- - Manga, Books and Anime: [As usual](https://github.com/lihe07/ac-list)
- -->
+- [GTK](https://www.gtk.org/): in progress
+- [Golang](https://go.dev/): diving deeper
+- [Java](https://www.java.com/): diving deeper
 
 ## Some links
 
-- [My (Neo)Vim Configuration](https://github.com/lihe07/lihe07/blob/main/init.vim) 
+- [My (Neo)Vim Configuration](https://github.com/lihe07/lihe07/blob/main/init.vim)
 - [My personal site(WIP) https://www.lihe.dev](https://www.lihe.dev/)
-
 
 ## Contact
 
-- wechat: lihe1300407
-- email:  li@imlihe.com / lihelihe2007@qq.com
 - qq: 3525904273
+- email:  li@imlihe.com / lihelihe2007@qq.com
 - twitter: [He Li](https://twitter.com/HeLi07784212) *(maybe slow to respond)*
