@@ -14,13 +14,13 @@ Some of my favorite technologies:
   - [PyTorch](https://pytorch.org/)
   - [FastAPI](https://fastapi.tiangolo.com/)
 - Julia:
-  - Pluto
+  - [Pluto](https://plutojl.org/)
   - [JuMP](https://jump.dev/)
 - Rust:
   - [async-std](https://async.rs/)
 - Web:
   - [SolidJS & SolidStart](https://www.solidjs.com/)
-  - [Qwik](https://qwik.builder.io/)
+  - [Svelte & SvelteKit](https://svelte.dev/)
 - C:
   - [GTK](https://www.gtk.org/)
   - [Meson](https://mesonbuild.com/)
@@ -31,9 +31,8 @@ Some of my favorite technologies:
 
 Learn:
 
-- [GTK](https://www.gtk.org/): in progress
-- [Golang](https://go.dev/): diving deeper
-- [Java](https://www.java.com/): diving deeper
+- [Godot Engine](https://godotengine.org/): diving deeper
+- Quantum Chemistry: in progress
 
 ## Some links
 
