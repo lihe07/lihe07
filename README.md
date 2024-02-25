@@ -1,12 +1,11 @@
-## Hello!!!
-<!-- ### Stats -->
+## Hello!!! 👋
+
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=lihe07&count_private=true&show_icons=true&theme=radical"></img></a>
 
-I am a student in **Beijing, China** and a computer novice.
+I am a student in _Beijing, China_ and a computer novice.
 
-- I love trying new technologies (although I might not good at them).
-- I am interested in AI/DL, Web and software stuffs.
-- I am willing to help if I can.
+- I am interested in AI(DL), Web and RE stuffs.
+- I am willing to help if I can!
 
 Some of my favorite technologies:
 
@@ -19,22 +18,17 @@ Some of my favorite technologies:
 - Rust:
   - [async-std](https://async.rs/)
 - Web:
+  - [Phoenix Framework](https://www.phoenixframework.org/)
   - [SolidJS & SolidStart](https://www.solidjs.com/)
   - [Svelte & SvelteKit](https://svelte.dev/)
 - C:
   - [GTK](https://www.gtk.org/)
   - [Meson](https://mesonbuild.com/)
 
-## Things I've been doing recently
+## Links
 
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
 
-Learn:
-
-- [Godot Engine](https://godotengine.org/): diving deeper
-- Quantum Chemistry: in progress
-
-## Some links
 
 - [My (Neo)Vim Configuration](https://github.com/lihe07/lihe07/blob/main/init.vim)
 - [My personal site(WIP) https://www.lihe.dev](https://www.lihe.dev/)
@@ -44,3 +38,28 @@ Learn:
 - qq: 3525904273
 - email:  li@imlihe.com / lihelihe2007@qq.com
 - twitter: [He Li](https://twitter.com/HeLi07784212) *(maybe slow to respond)*
+
+## Security
+
+PGP Public Keys:
+
+- [For signing git commits - RSA 4096](https://github.com/lihe07.gpg)
+- [For general uses - ECC Curve 25519](https://keys.openpgp.org/vks/v1/by-fingerprint/6E002D2AE0553605637A15C80570CB8110F000A4)
+
+  Fingerprint: `6E00 2D2A E055 3605 637A  15C8 0570 CB81 10F0 00A4`
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZdqtfxYJKwYBBAHaRw8BAQdAF5VJdS5xS+Pe++G5tX1vchV8aAJlfGZ6KeeJ
+lGjLAlC0LEhlIExpIChLZXkgZm9yIGdlbmVyYWwgdXNlcykgPGxpQGltbGloZS5j
+b20+iJMEExYKADsWIQRuAC0q4FU2BWN6FcgFcMuBEPAApAUCZdqtfwIbAwULCQgH
+AgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRAFcMuBEPAApBa7AP48ndeHwrnLZkHP
+65FaLRU+BysB1TduCBFezMEZxf3iWAEApjAVSQfZUgo/ND+dRCB9TsnYbnTmOSYF
+aIkWyzx5Xgu4OARl2q1/EgorBgEEAZdVAQUBAQdABMwRbGyXuupINb/6OgBywQfw
+beOvoTZMmPn8PCy/lFQDAQgHiHgEGBYKACAWIQRuAC0q4FU2BWN6FcgFcMuBEPAA
+pAUCZdqtfwIbDAAKCRAFcMuBEPAApHKMAQCeEXK70NYmgBkjwbU5AYI07qnNGKjp
+2mSKE9cwEI5TVwEA/Nk3EvrlfkVeUuEvfBaj2bDpkuU7tEBswMJ+0Op0xQc=
+=3tL3
+-----END PGP PUBLIC KEY BLOCK-----
+```
