@@ -2,26 +2,30 @@
 
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=lihe07&count_private=true&show_icons=true&theme=radical"></img></a>
 
-I am a student in _Beijing, China_ and a computer novice.
+I am a student in _Beijing_ and a computer novice. 
 
-- I am interested in AI(DL), Web and RE stuffs.
-- I am willing to help if I can!
+- I am interested in: Deep Learning, Applied Math and Optimisation Theory, Reverse Engineering and Low Levels.
 
-Some of my favorite technologies:
+
+Some of my fav techs:
 
 - Python:
   - [PyTorch](https://pytorch.org/)
-  - [FastAPI](https://fastapi.tiangolo.com/)
+  - [Sanic](https://sanic.dev/)
 - Julia:
   - [Pluto](https://plutojl.org/)
   - [JuMP](https://jump.dev/)
 - Rust:
-  - [async-std](https://async.rs/)
+  - [Typst](https://typst.app/)
+  - [ntex](https://ntex.rs/)
+  - [async-std (R.I.P.😢)](https://async.rs/)
+  - [many handy toolings](https://github.com/stars/lihe07/lists/essentials)
 - Web:
-  - [Phoenix Framework](https://www.phoenixframework.org/)
+  - [Phoenix](https://www.phoenixframework.org/)
   - [SolidJS & SolidStart](https://www.solidjs.com/)
   - [Svelte & SvelteKit](https://svelte.dev/)
 - C:
+  - [Radare2](https://github.com/radareorg/radare2)
   - [GTK](https://www.gtk.org/)
   - [Meson](https://mesonbuild.com/)
 
@@ -29,15 +33,15 @@ Some of my favorite technologies:
 
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
 
-
+- [My Helix Configuration](https://github.com/lihe07/lihe07/blob/main/config.toml)
 - [My (Neo)Vim Configuration](https://github.com/lihe07/lihe07/blob/main/init.vim)
 - [My personal site(WIP) https://www.lihe.dev](https://www.lihe.dev/)
 
 ## Contact
 
 - qq: 3525904273
-- email:  li@imlihe.com / lihelihe2007@qq.com
-- twitter: [He Li](https://twitter.com/HeLi07784212) *(maybe slow to respond)*
+- email:  li@imlihe.com
+- twitter: [He Li](https://twitter.com/HeLi07784212)
 
 ## Security
 
