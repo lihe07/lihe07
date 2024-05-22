@@ -41,7 +41,7 @@ Some of my fav techs:
 
 - qq: 3525904273
 - email:  li@imlihe.com
-- twitter: [He Li](https://twitter.com/HeLi07784212)
+- twitter: [He Li](https://twitter.com/lihe2007)
 
 ## Security
 
