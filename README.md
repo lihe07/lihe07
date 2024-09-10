@@ -2,32 +2,15 @@
 
 <a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=lihe07&count_private=true&show_icons=true&theme=radical"></img></a>
 
-I am a student in _Beijing_ and a computer novice. 
+- I am a student in _Beijing_. 
 
 - I am interested in: Deep Learning, Applied Math and Optimisation Theory, Reverse Engineering and Low Levels.
 
+- Check out my star lists:
 
-Some of my fav techs:
+  - [🛡️ RE / Security ](https://github.com/stars/lihe07/lists/re-security)
 
-- Python:
-  - [PyTorch](https://pytorch.org/)
-  - [Sanic](https://sanic.dev/)
-- Julia:
-  - [Pluto](https://plutojl.org/)
-  - [JuMP](https://jump.dev/)
-- Rust:
-  - [Typst](https://typst.app/)
-  - [ntex](https://ntex.rs/)
-  - [async-std (R.I.P.😢)](https://async.rs/)
-  - [many handy toolings](https://github.com/stars/lihe07/lists/essentials)
-- Web:
-  - [Phoenix](https://www.phoenixframework.org/)
-  - [SolidJS & SolidStart](https://www.solidjs.com/)
-  - [Svelte & SvelteKit](https://svelte.dev/)
-- C:
-  - [Radare2](https://github.com/radareorg/radare2)
-  - [GTK](https://www.gtk.org/)
-  - [Meson](https://mesonbuild.com/)
+  - [🦀 Handy Tools ](https://github.com/stars/lihe07/lists/essentials)
 
 ## Links
 
