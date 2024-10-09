@@ -1,6 +1,6 @@
 ## Hello!!! 👋
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=lihe07&count_private=true&show_icons=true&theme=radical"></img></a>
+<a href="#"><img align="right" src="https://ghstats.lihe.dev/api?username=lihe07&count_private=true&show_icons=true&theme=radical&include_all_commits=true"></img></a>
 
 - I am a student in _Beijing_. 
 
@@ -14,7 +14,7 @@
 
 ## Links
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
+<a href="#"><img align="right" src="https://ghstats.lihe.dev/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
 
 - [My Helix Configuration](https://github.com/lihe07/lihe07/blob/main/config.toml)
 - [My (Neo)Vim Configuration](https://github.com/lihe07/lihe07/blob/main/init.vim)
