@@ -19,9 +19,10 @@ My work-in-progress site: [https://www.lihe.dev](https://www.lihe.dev/)
 
 ## Contact
 
-- qq: 3525904273
-- email:  li@imlihe.com
+- email:   [li@imlihe.com](mailto:li@imlihe.com)
 - twitter: [He Li](https://twitter.com/lihe2007)
+- qq:      3525904273
+- wechat:  lihe1300407
 
 ## Security
 
