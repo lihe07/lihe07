@@ -12,13 +12,10 @@ Check out my star lists:
 
   - [🦀 Handy Tools ](https://github.com/stars/lihe07/lists/essentials)
 
-## Links
+
+My work-in-progress site: [https://www.lihe.dev](https://www.lihe.dev/)
 
 <a href="#"><img align="right" src="https://ghstats.lihe.dev/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
-
-- [My Helix Configuration](https://github.com/lihe07/lihe07/blob/main/config.toml)
-- [My (Neo)Vim Configuration](https://github.com/lihe07/lihe07/blob/main/init.vim)
-- [My personal site(WIP) https://www.lihe.dev](https://www.lihe.dev/)
 
 ## Contact
 
