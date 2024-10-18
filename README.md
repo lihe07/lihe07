@@ -2,11 +2,11 @@
 
 <a href="#"><img align="right" src="https://ghstats.lihe.dev/api?username=lihe07&count_private=true&show_icons=true&theme=radical&include_all_commits=true"></img></a>
 
-- I am a student in _Beijing_. 
+I am a student in _Beijing_. 
 
-- I am interested in: Deep Learning, Applied Math and Optimisation Theory, Reverse Engineering and Low Levels.
+I am interested in: Deep Learning, Applied Math and Optimisation Theory, Reverse Engineering and Low Levels.
 
-- Check out my star lists:
+Check out my star lists:
 
   - [🛡️ RE / Security ](https://github.com/stars/lihe07/lists/re-security)
 
