@@ -2,7 +2,7 @@
 
 <a href="#"><img align="right" src="https://ghstats.lihe.dev/api?username=lihe07&count_private=true&show_icons=true&theme=radical&include_all_commits=true"></img></a>
 
-I am a student in _Beijing_. 
+I am a Computer Science undergrad at [Georgia Tech](https://gatech.edu)
 
 I am interested in: Deep Learning, Applied Math and Optimisation Theory, Reverse Engineering and Low Levels.
 
@@ -19,9 +19,9 @@ My work-in-progress site: [https://www.lihe.dev](https://www.lihe.dev/)
 
 ## Contact
 
-- email:   [li@imlihe.com](mailto:li@imlihe.com)
-- twitter: [He Li](https://twitter.com/lihe2007)
-- qq:      3525904273
+- email:   [harvey-l@gatech.edu (formal)](mailto:harvey-l@gatech.edu) [li@imlihe.com (personal)](mailto:li@imlihe.com)
+- twitter: [hli0407](https://twitter.com/hli0407)
+- ig:      [hli0407](https://www.instagram.com/hli0407/)
 - wechat:  lihe1300407
 
 ## Security
