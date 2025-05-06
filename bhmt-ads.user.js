@@ -7,6 +7,7 @@
 // @match        https://ani.gamer.com.tw/animeVideo.php?sn=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ani.gamer.com.tw
 // @grant        none
+// @version      0.1
 // @run-at       document-idle
 // ==/UserScript==
 
