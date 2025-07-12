@@ -92,6 +92,22 @@ function findAllCourses() {
 
 let counter = 0;
 
+function myTimeout(func, mins) {
+  let seconds = Math.floor(mins * 60);
+  const intervalId = setInterval(() => {
+    if (seconds <= 0) {
+      // When time is up, stop the countdown
+      clearInterval(intervalId);
+      // Execute the user-provided function
+      func();
+    } else {
+      // Print the seconds left
+      console.log(`${seconds} second(s) left until timeout.`);
+      seconds--;
+    }
+  }, 1000); // This function runs every 1000ms (1s)
+}
+
 async function main() {
   for (const course of findAllCourses()) {
     console.log('Found course:', course.courseItemId, 'Length:', course.length);
@@ -99,15 +115,15 @@ async function main() {
     let resp = await trackStart(course);
     counter++;
     console.log("Waiting for course to finish:", course.courseItemId);
-    setTimeout(async () => {
+    myTimeout(async () => {
       await trackFinish(course, resp.course_work_hist_id);
       counter--;
 
       if (counter === 0) {
         console.log("All courses finished");
-        location.reload();
+        setTimeout(() => location.reload(), 5000);
       }
-    }, (course.length + 0.5) * 60 * 1000);
+    }, (0.5 + course.length));
   }
 }
 
