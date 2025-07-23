@@ -13,25 +13,19 @@ Check out my star lists:
   - [🦀 Handy Tools ](https://github.com/stars/lihe07/lists/essentials)
 
 
-My work-in-progress site: [https://www.lihe.dev](https://www.lihe.dev/)
+My site: [https://www.harvey-l.com](https://www.harvey-l.com/)
 
 <a href="#"><img align="right" src="https://ghstats.lihe.dev/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
 
 ## Contact
 
-- email:   [harvey-l@gatech.edu (formal)](mailto:harvey-l@gatech.edu) [li@imlihe.com (personal)](mailto:li@imlihe.com)
-- twitter: [hli0407](https://twitter.com/hli0407)
+- email:   [harvey-l@gatech.edu](mailto:harvey-l@gatech.edu)
 - ig:      [hli0407](https://www.instagram.com/hli0407/)
-- wechat:  lihe1300407
+- linkedin [hli0407](https://www.linkedin.com/in/hli0407/)
+- twitter: [hli0407](https://twitter.com/hli0407)
+
+Also refer to [the Contact section on my site](https://www.harvey-l.com/contact).
 
 ## Security
 
-PGP Public Keys:
-
-- [For signing git commits - RSA 4096](https://github.com/lihe07.gpg)
-
-  Fingerprint: `A251 4F83 3786 3E7E EAC2  0924 0A2D 1923 F37D 6A3C`
-
-- [For general uses - ECC Curve 25519](https://keys.openpgp.org/vks/v1/by-fingerprint/6E002D2AE0553605637A15C80570CB8110F000A4)
-
-  Fingerprint: `6E00 2D2A E055 3605 637A  15C8 0570 CB81 10F0 00A4`
+[My PGP Public keys](https://www.harvey-l.com/contact)
