@@ -15,7 +15,7 @@ Check out my star lists:
 
 My site: [https://www.harvey-l.com](https://www.harvey-l.com/)
 
-<a href="#"><img align="right" src="https://ghstats.lihe.dev/api/top-langs/?username=lihe07&theme=radical"></img></a>
+<a href="#"><img align="right" src="https://ghstats.lihe.dev/api/top-langs/?username=lihe07&theme=radical&layout=compact"></img></a>
 
 ## Contact
 
